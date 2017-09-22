@@ -1,5 +1,9 @@
-var olio = {};
+var olio;
 
 function getOlio() {
   return olio;
+}
+
+function addPropertyAgeToOlio(age) {
+  olio.age = age;
 }
