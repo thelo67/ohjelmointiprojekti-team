@@ -3,3 +3,7 @@ var mj = 'kissa';
 function getMerkkijono() {
   return mj;
 }
+
+function setMerkkijono(pmj) {
+  mj = pmj;
+}
