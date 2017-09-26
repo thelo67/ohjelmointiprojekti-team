@@ -1,0 +1,5 @@
+var mj = 'kissa';
+
+function getMerkkijono() {
+  return mj;
+}

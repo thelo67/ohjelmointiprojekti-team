@@ -5,5 +5,5 @@ function getOlio() {
 }
 
 function addPropertyAgeToOlio(age) {
-  olio.age = age;
+  olio.ika = age;
 }
